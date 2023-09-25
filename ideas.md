@@ -2,7 +2,6 @@
 
 Hackathon participants are free to explore and build projects that span a variety of use cases across NFTs, DeFi, and Web3.\*\* The following is a list of interesting possible ideas sourced from the Exzo Network community and the participating judges/speakers. One of the beauties of utilizing DeFi’s composable building blocks is that they can be remixed and modified to build entirely new financial services. So take a look if you or your team is in need of some inspiration!
 
-- Serum Ideas: The Serum team has produced an exclusive Serum-related list that can be found here: https://serum-academy.com/en/serum-project-ideas/project-ideas/
 - Lending front end and primitive: Money market lending protocol native to Exzo Network (akin to Compound or Aave)
 - Cross-Chain Lending: A lending protocol that immediately provides liquidity for assets transferred cross-chain, utilizing the Wormhole bridge - such that users don't need to wait for the cross-chain assets to be fully confirmed on both chains - in return for a fee
 - Fixed-Rate Loans: Where users can take out a fixed-rate loan on an Ethereum Lending/Borrowing protocol that is enabled by an on-chain interest rate swap order book on Serum
